@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/ResearchWebsite/static/css/main.c96e004c.css",
+    "main.js": "/ResearchWebsite/static/js/main.7c7f0581.js",
+    "static/js/453.bb828c5d.chunk.js": "/ResearchWebsite/static/js/453.bb828c5d.chunk.js",
+    "static/media/pp2.pdf": "/ResearchWebsite/static/media/pp2.ae38f10961658253e3eb.pdf",
+    "static/media/pp1.pdf": "/ResearchWebsite/static/media/pp1.24e558821830622f30cf.pdf",
+    "static/media/finalPresentation.pdf": "/ResearchWebsite/static/media/finalPresentation.b462e58e34248369db07.pdf",
+    "static/media/hansi.pdf": "/ResearchWebsite/static/media/hansi.2ba0b3031f421814d20b.pdf",
+    "static/media/malshan.jpg": "/ResearchWebsite/static/media/malshan.7e1b3832db95fbfd5788.jpg",
+    "static/media/sahan.pdf": "/ResearchWebsite/static/media/sahan.cf2212eda4dd8c8eecc4.pdf",
+    "static/media/finalReport.pdf": "/ResearchWebsite/static/media/finalReport.a96427502380592a4682.pdf",
+    "static/media/malshan.pdf": "/ResearchWebsite/static/media/malshan.9b3acd69b78a1c1193cc.pdf",
+    "static/media/kalpana.pdf": "/ResearchWebsite/static/media/kalpana.359999e11d1dd72ef03b.pdf",
+    "static/media/sahan.jpg": "/ResearchWebsite/static/media/sahan.2d53210bfa54088e71e8.jpg",
+    "static/media/researchPaper.pdf": "/ResearchWebsite/static/media/researchPaper.7261dff77b30f9ddcb49.pdf",
+    "static/media/hansi.jpg": "/ResearchWebsite/static/media/hansi.76b56f66ae2157c734a9.jpg",
+    "static/media/mobileApps.png": "/ResearchWebsite/static/media/mobileApps.ed6d6e95518fedd83e86.png",
+    "static/media/taf.pdf": "/ResearchWebsite/static/media/taf.83e2a0b66e1159d91ffb.pdf",
+    "static/media/effectOfFeelings.png": "/ResearchWebsite/static/media/effectOfFeelings.1c190318269eea1b9fec.png",
+    "static/media/hero-bg-light.webp": "/ResearchWebsite/static/media/hero-bg-light.3dcbee904a5f43b07c7d.webp",
+    "static/media/darshana.jpeg": "/ResearchWebsite/static/media/darshana.a61a145feed64e470efa.jpeg",
+    "static/media/thusithanjana.jpeg": "/ResearchWebsite/static/media/thusithanjana.20026db56bf456909c5a.jpeg",
+    "static/media/swagger.png": "/ResearchWebsite/static/media/swagger.56eddda23b29ec8094e2.png",
+    "static/media/features-1.jpg": "/ResearchWebsite/static/media/features-1.19ca1c5417e4e0e74bc2.jpg",
+    "static/media/vsCode.jpeg": "/ResearchWebsite/static/media/vsCode.7312feb25c94fda2f4a0.jpeg",
+    "static/media/aim.png": "/ResearchWebsite/static/media/aim.61ffff41f0e7b712c021.png",
+    "static/media/logo.png": "/ResearchWebsite/static/media/logo.6d2b34f37f2d5b2efced.png",
+    "static/media/firebase.png": "/ResearchWebsite/static/media/firebase.eb0f694b0397db6b58c3.png",
+    "static/media/python.webp": "/ResearchWebsite/static/media/python.df40170139b594025a59.webp",
+    "index.html": "/ResearchWebsite/index.html",
+    "main.c96e004c.css.map": "/ResearchWebsite/static/css/main.c96e004c.css.map",
+    "main.7c7f0581.js.map": "/ResearchWebsite/static/js/main.7c7f0581.js.map",
+    "453.bb828c5d.chunk.js.map": "/ResearchWebsite/static/js/453.bb828c5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c96e004c.css",
+    "static/js/main.7c7f0581.js"
+  ]
+}
