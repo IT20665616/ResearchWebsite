@@ -2,6 +2,12 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './../assets/css/main.css';
 import logo from './../assets/img/logo.png';
+import hansi from './../assets/img/hansi.jpg';
+import malshan from './../assets/img/malshan.jpg';
+import kalpana from './../assets/img/kalpana.jpg';
+import thusithanjana from './../assets/img/thusithanjana.jpeg';
+import darshana from './../assets/img/darshana.jpeg';
+import sahan from './../assets/img/sahan.jpg';
 import heroBg from './../assets/img/hero-bg-light.webp';
 import appImg from './../assets/img/mobileApps.png';
 import feelingImg from './../assets/img/effectOfFeelings.png';
@@ -32,7 +38,7 @@ function Home() {
                     <nav id="navmenu" class="navmenu">
                         <ul>
                             <li><a href="/" class="">Home</a></li>
-                            <li><a href="index.html#about">About</a></li>
+                            <li><a href="#about">About</a></li>
                             {/* <li><a href="index.html#features">Milestones</a></li> */}
                             <li class="dropdown"><a href="#"><span>Downloads</span></a>
                             </li>
@@ -50,7 +56,7 @@ function Home() {
                         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
                     </nav>
 
-                    <a class="btn-getstarted" href="index.html#about">Contact Us</a>
+                    <a class="btn-getstarted" href="#contact">Contact Us</a>
 
                 </div>
             </header>
@@ -75,6 +81,83 @@ function Home() {
                 </div>
 
             </section>
+
+            {/* ************************************************ */}
+
+            <section id="about" class="features-details section">
+
+                <div class="container">
+
+                    <div class="row gy-4 justify-content-center features-item">
+                        <div class="col-lg-3 d-flex align-items-center" data-aos="fade-up" data-aos-delay="200">
+                            <div class="content">
+                                <h3>Meet the Team</h3>
+                                <p>Heartfelt gratitude is extended to each and every team member for their dedication, hard work, and unwavering commitment throughout the project. Th
+                                    Additionally, sincere thanks are extended to our co-supervisor, Dr. Dharshana, for their continuous support, constructive suggestions, and encouragement. Their contributions have been crucial in steering the project in the right direction.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 d-flex align-items-center" data-aos="fade-up" data-aos-delay="200">
+                            <div class="content">
+                                <img src={thusithanjana} class="img-fluid" alt="" />
+                                <br />
+                                <h5>Mr. Thusithanjana Thilakarathna</h5>
+                                <h3>- Supervisor -</h3>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 d-flex align-items-center" data-aos="fade-up" data-aos-delay="200">
+                            <div class="content">
+                                <img src={darshana} class="img-fluid" alt="" />
+                                <br />
+                                <h5>Dr. Dharshana Kasthurirathna</h5>
+                                <h3>- Co - Supervisor -</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row gy-4 justify-content-around features-item">
+
+                        <div class="col-lg-3 d-flex align-items-center" data-aos="fade-up" data-aos-delay="200">
+                            <div class="content">
+                                <img src={hansi} class="img-fluid" alt="" />
+                                <br />
+                                <h5>Sumanasekara H.P.</h5>
+                                <h3>IT20665616</h3>
+                                {/* <h3>- Group Leader -</h3> */}
+                            </div>
+                        </div>
+                        <div class="col-lg-3 d-flex align-items-center" data-aos="fade-up" data-aos-delay="200">
+                            <div class="content">
+                                <img src={malshan} class="img-fluid" alt="" />
+                                <br />
+                                <h5>Gunasekara C. M.</h5>
+                                <h3>IT20665852</h3>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 d-flex align-items-center" data-aos="fade-up" data-aos-delay="200">
+                            <div class="content">
+                                <img src={sahan} class="img-fluid" alt="" />
+                                <br />
+                                <h5>Dhananjaya W.K.S.</h5>
+                                <h3>IT20667078</h3>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 d-flex align-items-center" data-aos="fade-up" data-aos-delay="200">
+                            <div class="content">
+                                <img src={kalpana} class="img-fluid" alt="" />
+                                <br />
+                                <h5>Fernando M.P.T.K.</h5>
+                                <h3>IT20610852</h3>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+
+            </section>
+
 
             {/* literature survey */}
             {/* ******************************************************************** */}
@@ -358,15 +441,15 @@ function Home() {
                                 <div class="row gy-4">
 
                                     <div class="col-md-6">
-                                        <input type="text" name="name" class="form-control" placeholder="Your Name" required=""/>
+                                        <input type="text" name="name" class="form-control" placeholder="Your Name" required="" />
                                     </div>
 
                                     <div class="col-md-6 ">
-                                        <input type="email" class="form-control" name="email" placeholder="Your Email" required=""/>
+                                        <input type="email" class="form-control" name="email" placeholder="Your Email" required="" />
                                     </div>
 
                                     <div class="col-md-12">
-                                        <input type="text" class="form-control" name="subject" placeholder="Subject" required=""/>
+                                        <input type="text" class="form-control" name="subject" placeholder="Subject" required="" />
                                     </div>
 
                                     <div class="col-md-12">
@@ -390,7 +473,7 @@ function Home() {
 
             {/* ************************************** */}
 
-            <Footer/>
+            <Footer />
 
 
         </>

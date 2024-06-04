@@ -13,7 +13,7 @@ import researchPaper from '../assets/Docs/researchPaper.pdf';
 import taf from '../assets/Docs/taf.pdf';
 import pp1 from '../assets/Docs/pp1.pdf';
 import pp2 from '../assets/Docs/pp2.pdf';
-// import finalPresentation from '../assets/Docs/finalPresentation.pdf';
+import finalPresentation from '../assets/Docs/finalPresentation.pdf';
 
 // final reports
 
@@ -119,7 +119,7 @@ function Documents() {
                                 <i class="bi bi-files icon"></i>
                                 <div>
                                     <h3>Final Presentation</h3>
-                                    <a href={finalReport} class="read-more stretched-link">Download<i class="bi bi-arrow-right"></i></a>
+                                    <a href={finalPresentation} class="read-more stretched-link">Download<i class="bi bi-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>

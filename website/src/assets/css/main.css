@@ -1235,6 +1235,8 @@ section,
   color: color-mix(in srgb, var(--default-color), transparent 40%);
   padding: 30px;
   border-radius: 10px;
+  align-items: center;
+  text-align: center;
 }
 
 .features-details .features-item h3 {
@@ -1277,6 +1279,9 @@ section,
 
 .features-details .features-item img {
   border-radius: 15px;
+  margin-bottom: 20px;
+  width: 300px;
+  height: 300px;
 }
 
 /*--------------------------------------------------------------

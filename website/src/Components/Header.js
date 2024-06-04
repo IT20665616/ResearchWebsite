@@ -19,26 +19,25 @@ function Header() {
                     <nav id="navmenu" class="navmenu">
                         <ul>
                             <li><a href="/" class="">Home</a></li>
-                            <li><a href="index.html#about">About</a></li>
-                            <li><a href="index.html#features">Milestones</a></li>
+                            <li><a href="/">About</a></li>
                             <li class="dropdown"><a href="/docs"><span>Downloads</span></a>
                    
                             </li>
                             <li class="dropdown"><a href="#"><span>Project Scope</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
                                 <ul>
-                                    <li><a href="#">Literiture Survey</a></li>
-                                    <li><a href="#">Research Gap</a></li>
-                                    <li><a href="#">Research Problem</a></li>
-                                    <li><a href="#">Research Objectives</a></li>
-                                    <li><a href="#">Methodology</a></li>
-                                    <li><a href="#">Tools and Technologies</a></li>
+                                    <li><a href="/ls">Literiture Survey</a></li>
+                                    <li><a href="/">Research Gap</a></li>
+                                    <li><a href="/">Research Problem</a></li>
+                                    <li><a href="/">Research Objectives</a></li>
+                                    <li><a href="/">Methodology</a></li>
+                                    <li><a href="/">Tools and Technologies</a></li>
                                 </ul>
                             </li>
                         </ul>
                         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
                     </nav>
 
-                    <a class="btn-getstarted" href="index.html#about">Contact Us</a>
+                    <a class="btn-getstarted" href="/">Contact Us</a>
 
                 </div>
             </header>

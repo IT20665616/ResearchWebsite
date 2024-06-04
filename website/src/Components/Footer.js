@@ -15,7 +15,7 @@ function Footer() {
                 <div class="container footer-top">
                     <div class="row gy-4">
                         <div class="col-lg-8 col-md-6 footer-about">
-                            <a href="index.html" class="logo d-flex align-items-center">
+                            <a href="/" class="logo d-flex align-items-center">
                                 <img src={logo} alt="" />
                                 <span class="sitename">MeloWave</span>
                             </a>
@@ -47,11 +47,11 @@ function Footer() {
                         <div class="col-lg-2 col-md-3 footer-links">
                             <h4>Our Goals..</h4>
                             <ul>
-                                <li><a href="#">Introduce the Research</a></li>
-                                <li><a href="#">Documentations</a></li>
-                                <li><a href="#">Acadamic based</a></li>
-                                <li><a href="#">Marketing</a></li>
-                                <li><a href="#">Acknowledgement</a></li>
+                                <li>Introduce the Research</li>
+                                <li>Documentations</li>
+                                <li>Acadamic based</li>
+                                <li>Marketing</li>
+                                <li>Acknowledgement</li>
                             </ul>
                         </div>
 
